@@ -7,7 +7,7 @@ A simple macro to toggle the:
  * Favorites Bar
  * Tab Bar
  
-This is to give a clean interface for view video for example.
+This is to give a clean interface for viewing video for example.
 
 Requires *Safari* to be running otherwise will exit Macro
 It includes a custom icon for the Safari Browser
